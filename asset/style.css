@@ -1,0 +1,78 @@
+*{
+  
+    font-size: 110%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(181, 203, 153);
+}
+header {
+    width: 100%;
+}
+header h1{
+    text-align: center;
+}
+
+.gameWraper {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    justify-content: space-around;
+    background-color: rgb(109, 117, 68);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px rgb(126, 138, 126);
+}
+.playContainer{
+    display: flex;
+   
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 45%;
+    height: 50vh;
+    border-radius: 8px;
+    background-image: linear-gradient(rgb(175, 127, 6),gold);
+
+}
+#timer{
+    
+}
+#timerSpan{
+    background-color: whitesmoke;
+    border-radius: 4px;
+    width: 36px;
+    height: 36px;
+    padding: 1px;
+    border-color: aquamarine;
+}
+#gussword{
+    width: 80%;
+    border-style: solid;
+    border-color: aquamarine;
+    text-align: center;
+    background-color: whitesmoke ;
+    border-radius: 4px;
+    font-size: 120%;
+
+}
+button{
+    border-radius: 7px;
+    background-color: rgb(153, 194, 192);
+    border-color: aquamarine;
+}
+
+.scoreContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 45%;
+    height: 25vh;
+    border-radius: 8px;
+    background-image: linear-gradient(rgb(175, 127, 6),gold);
+   
+}
+

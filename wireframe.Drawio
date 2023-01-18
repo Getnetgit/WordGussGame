@@ -1,0 +1,51 @@
+<mxfile host="65bd71144e">
+    <diagram id="u09Tf-ke6NhbZIgKcGnz" name="Page-1">
+        <mxGraphModel dx="499" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="" style="whiteSpace=wrap;html=1;fillColor=#E3E1CC;shadow=1;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="-30" width="520" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="50" width="250" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="190" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="45" width="170" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="WORD GUSS GAME" style="whiteSpace=wrap;html=1;shadow=1;fillColor=#E3E1CC;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="-15" width="450" height="45" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Playing Word" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="100" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Start" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="190" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Time left" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="135" y="60" width="40" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Game status" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="140" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Wins" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Wins" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="60" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Loses" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Wins" style="whiteSpace=wrap;html=1;shadow=1;fontColor=#000000;fillColor=#E3E1CC;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
