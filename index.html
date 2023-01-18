@@ -5,9 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WordGussGame</title>
+    <link rel="stylesheet" href="/asset/style.css">
     
 </head>
 <body>
-    
+    <header>
+        <h1 >Work Guss Game</h1>
+    </header>
+    <div class="gameWraper">
+        <div class="playContainer">
+            <div id="timer">Time left: <span id="timerSpan">0 Sec</span></div>
+            <div id="gussword">&nbsp</div>
+            <div id="gameMessage">&nbsp</div>
+            <button type="button">Start Game</button>
+        </div>
+        <div class="scoreContainer">
+            <div id="wins">Wins: <Span id="winsSpan"></Span></div>
+            <div id="losses">losses: <span id="lossesSpan"></span> </div>
+        </div>
+
+    </div>
+    <script src="/asset/Script.js"></script>
 </body>
 </html>
